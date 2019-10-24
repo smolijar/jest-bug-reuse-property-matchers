@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches property matchers - spread 1`] = `
+Object {
+  "bar": Object {
+    "baz": "ab1",
+    "createdAt": Any<String>,
+  },
+  "foo": Object {
+    "createdAt": Any<String>,
+  },
+}
+`;
+
+exports[`Matches property matchers 1`] = `
+Object {
+  "bar": Object {
+    "baz": "ab1",
+    "createdAt": Any<String>,
+  },
+  "foo": Object {
+    "createdAt": Any<String>,
+  },
+}
+`;
